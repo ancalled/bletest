@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ancalled/Documents/tmp/29/BEACON/Android/Beansetdoc/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ancalled/.android/build-cache/7bd5e29261fa523bf03463e82a8742a6029e6c16/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ancalled/Documents/tmp/29/BEACON/Android/Beansetdoc/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ancalled/.android/build-cache/7bd5e29261fa523bf03463e82a8742a6029e6c16/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ancalled/Documents/tmp/29/BEACON/Android/Beansetdoc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ancalled/.android/build-cache/7bd5e29261fa523bf03463e82a8742a6029e6c16/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ancalled/Documents/tmp/29/BEACON/Android/Beansetdoc/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ancalled/.android/build-cache/7bd5e29261fa523bf03463e82a8742a6029e6c16/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
